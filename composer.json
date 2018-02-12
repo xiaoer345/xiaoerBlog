@@ -1,0 +1,28 @@
+{
+	"name" : "jiswoole/jiswoole",
+	"type" : "library",
+	"description" : "A simple swoole framework",
+	"keywords" : [
+		"swoole",
+		"framework",
+		"async",
+		"jiswoole"
+	],
+	"homepage" : "http://www.fxxer.cn/",
+	"license" : "Apache-2.0",
+	"authors" : [{
+			"name" : "jitao",
+			"email" : "379424792@qq.com"
+		}
+	],
+	"require" : {
+		"php" : ">=5.6.0",
+		"smarty/smarty" : "^3.1"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"JiSwoole\\" : "src/",
+			"app\\" : "app/"
+		}
+	}
+}
