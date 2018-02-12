@@ -1,5 +1,10 @@
 # xiaoerBlog
 
+![image](https://github.com/jitaoneng/xiaoerBBS/raw/master/login.png)
+![image](https://github.com/jitaoneng/xiaoerBBS/raw/master/index.png)
+![image](https://github.com/jitaoneng/xiaoerBBS/raw/master/post.png)
+![image](https://github.com/jitaoneng/xiaoerBBS/raw/master/view.png)
+
 环境配置：
 win10+vmware workstation ubuntu16.04
 nginx+mysql+swoole+smarty+umeditor
